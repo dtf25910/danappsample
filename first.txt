@@ -1,3 +1,1 @@
-this is a git_practice. first commit.
-
-i just added this changes.
+changes to the first file 
